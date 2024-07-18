@@ -38,6 +38,8 @@ We aim to spread the real, in-depth skills of robotics and IoT among the young g
 - **Shreyashi Binod Kumar:** Design Lead
 - **Akshaj Singh:** Design Lead
 - **Harsh Kumar:** Technical Lead
+- **Arnesh Batra:** Computer Vison Lead
+- **Angadjeet Singh:** Computer Vison Lead
 
 ---
 
