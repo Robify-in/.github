@@ -4,29 +4,31 @@ Welcome to **Robify** - Your Path to Innovation! 🌟
 **Website:** [www.robify.in](http://www.robify.in)  
 **Community:** [community.robify.in](http://community.robify.in)
 
-#### Who We Are
-Founded on July 6, 2023, Robify is an Ed-Tech and E-Commerce platform dedicated to bringing the world of Robotics, IOT, ML, CV, and Electronics to students everywhere. Our mission? To empower the next generation with practical skills and foster a culture of innovation and startup creation. 🛠️🤖
+#### Who We Are?
+Founded on July 6, 2023, Robify is an Ed-Tech and E-Commerce platform dedicated to bringing the world of Robotics, IOT, ML, CV, and Electronics to students everywhere. 
 
-#### What We Do
-**Education:** We offer online courses and offline workshops in robotics, IOT, and more. Our hands-on approach ensures you’re not just learning theory but actually building and creating. 💻📚
+#### Our mission? To empower the next generation with practical skills and foster a culture of innovation and startup creation. 🛠️🤖
 
-**E-Commerce:** Need a robot kit? We've got you covered! Our customized kits come with everything you need to start tinkering and innovating. 🛒📦
+#### What We Do?
+- **Education:** We offer online courses and offline workshops in robotics, IOT, and more. Our hands-on approach ensures you’re not just learning theory but actually building and creating. 💻📚
 
-**Community:** Join our vibrant community for peer-based learning, one-on-one doubt support, and exciting events like hackathons and techfests. Collaboration and creativity are at the heart of everything we do! 👩‍🏫👨‍🏫
+- **E-Commerce:** Need a robot kit? We've got you covered! Our customized kits come with everything you need to start tinkering and innovating. 🛒📦
+
+- **Community:** Join our vibrant community for peer-based learning, one-on-one doubt support, and exciting events like hackathons and techfests. Collaboration and creativity are at the heart of everything we do! 👩‍🏫👨‍🏫
 
 #### Why Choose Us?
 - **No Plug-and-Play Kits:** We focus on real learning with industry-standard components. 🛠️
 - **Student-Friendly Teaching:** Our style is engaging and easy to follow. 🎓
 - **Community Platform:** Get help with your doubts and collaborate with others. Finding tutorials on YouTube is easy, but real-time support is what we offer! 🌐
 
-#### Our Vision & Mission
+#### Our Vision?
 We aim to spread the real, in-depth skills of robotics and IoT among the young generation, helping them innovate and build startups. Our tagline says it all - *Your Path to Innovation.* 🚀
 
-#### What We Offer
+#### What We Offer?
 - **Online Courses & Offline Workshops:** Learn and build from scratch. 💡🔧
 - **Customized Kits:** From basic to advanced, we have it all. 🛒
 - **Community:** Peer learning and one-on-one support. 👩‍🏫
-- **Events:** IoT hackathons, productathons, and techfests. 🏆
+- **Events:** IOT hackathons, productathons, and techfests. 🏆
 
 ---
 
@@ -40,6 +42,9 @@ We aim to spread the real, in-depth skills of robotics and IoT among the young g
 - **Harsh Kumar:** Technical Lead
 - **Arnesh Batra:** Computer Vison Lead
 - **Angadjeet Singh:** Computer Vison Lead
+- **Purvi Handa** Technical Team Intern
+- **Vaishnavi Shrivastava** Technical Team Intern
+- **Rhythm Goel** Technical Team Intern
 
 ---
 
