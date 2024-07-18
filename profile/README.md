@@ -42,9 +42,9 @@ We aim to spread the real, in-depth skills of robotics and IoT among the young g
 - **Harsh Kumar:** Technical Lead
 - **Arnesh Batra:** Computer Vison Lead
 - **Angadjeet Singh:** Computer Vison Lead
-- **Purvi Handa** Technical Team Intern
-- **Vaishnavi Shrivastava** Technical Team Intern
-- **Rhythm Goel** Technical Team Intern
+- **Purvi Handa** R&D Intern
+- **Vaishnavi Shrivastava** R&D  Intern
+- **Rhythm Goel** R&D Intern
 
 ---
 
